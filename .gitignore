@@ -4,3 +4,8 @@ build
 #Gradle folder
 .gradle
 gradle
+
+#intellij Specific files
+*.iml
+*.ipr
+*.iws
